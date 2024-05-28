@@ -8,9 +8,10 @@ public class Main {
        // System.out.println(harryPotter.pageNumber);
        // System.out.println(lordOfTheKings.pageNumber);
 
-        lordOfTheKings.setName("Yaprak Dökümü");
-        System.out.println(harryPotter.getName());
-        System.out.println(lordOfTheKings.name);
+        lordOfTheKings.setName("Yaprak Dökümü"); // set le ismini değiştirdik.
+        System.out.println(harryPotter.getName()); // get ile ism getirdik.
+        System.out.println(lordOfTheKings.getName());
+
 
     }
 }

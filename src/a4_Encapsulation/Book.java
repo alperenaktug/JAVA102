@@ -3,8 +3,8 @@ package a4_Encapsulation;
 import javax.swing.*;
 
 public class Book {
-    public String name ;
-    public int pageNumber;
+    private String name ;
+    private int pageNumber;
 
 
     public Book(String name , int pageNumber){
