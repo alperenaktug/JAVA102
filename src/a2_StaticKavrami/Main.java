@@ -1,4 +1,4 @@
-package StaticKavrami;
+package a2_StaticKavrami;
 
 public class Main {
     public static void main(String[] args) {

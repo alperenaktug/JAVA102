@@ -1,4 +1,4 @@
-package FinalKey;
+package a3_FinalKey;
 
 public class Main {
     public static void main(String[] args) {

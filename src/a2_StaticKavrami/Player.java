@@ -1,4 +1,4 @@
-package StaticKavrami;
+package a2_StaticKavrami;
 
 public class Player {
     public String name;

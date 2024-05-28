@@ -1,4 +1,4 @@
-package AccessModifiers;
+package a1_AccessModifiers;
 
 public class ErisimBelirleyiciler {
     public static void main(String[] args) {
