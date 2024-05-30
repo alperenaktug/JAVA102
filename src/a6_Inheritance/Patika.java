@@ -12,5 +12,6 @@ public class Patika {
         Calisan m1 = new Memur("Demir Görkemli " , "05078656423" , "demir@gmail.com" , "Bilgi işlem" , "09-17");
 
         m1.yemekhane();
+
     }
 }
