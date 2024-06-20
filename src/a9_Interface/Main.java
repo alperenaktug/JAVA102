@@ -33,8 +33,8 @@ public class Main {
                 break;
             case 2 :
                 Bbankasi bPos = new Bbankasi("B Bankası" , "1111" , "456");
-                bPos.conn("dsgdsg");
-                bPos.sendPayment(1000);
+                //bPos.conn("dsgdsg");
+                //  bPos.sendPayment(1000);
                 break;
                 default:
                     System.out.println(" Geçerli banka giriniz !!");
